@@ -2,6 +2,8 @@
 
 Welcome to **Ton Heroes**, an exciting RPG game built on the TON blockchain. Dive into a world where you can open chests to win gear, level up, and battle your way to glory. Enjoy endless fun while playing and earning!
 
+![Ton Heroes](https://github.com/OGenLab/Thero1/blob/main/ICON.jpg)
+
 ## 🚀 Overview
 
 Ton Heroes is designed to provide continuous joy and rewards through engaging gameplay and blockchain-based incentives. Our mission is to create more TON-based entertainment, offering players a thrilling journey.
@@ -71,5 +73,5 @@ Ton Heroes is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 Let's embark on this adventure together! 🎉
 
-![Ton Heroes](https://github.com/OGenLab/Thero1/blob/main/ICON.jpg)
+![Ton Heroes](https://github.com/OGenLab/Thero1/blob/main/snapshot.png)
 
